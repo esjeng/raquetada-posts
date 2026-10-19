@@ -1,5 +1,381 @@
 {
  "conta": "raquetada",
- "observacao": "Agenda do publicador. Horários em Brasília. Arquivos fixados no commit \"sha\". Os posts da semana 1 (até 25/10) seguem nas tarefas agendadas individuais.",
- "itens": []
+ "observacao": "Agenda do publicador. Horários em Brasília (grade: 12h e 18h, story junto com o post). Arquivos fixados no commit \"sha\". Só publica item com aprovado: true.",
+ "itens": [
+  {
+   "id": "2026-10-19-1b-seg-19-taticas-bt",
+   "quando": "2026-10-19T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "5 táticas que ganham pontos no beach tennis",
+   "sha": "dee82ff91a5ec430eefbd2f48c6ee756781daaf4",
+   "pasta": "semana-1/1b-seg-19-taticas-bt",
+   "aprovado": true,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg",
+    "slide-07.jpg"
+   ]
+  },
+  {
+   "id": "2026-10-19-1b-seg-19-taticas-bt-story",
+   "quando": "2026-10-19T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: 5 táticas que ganham pontos no beach tennis",
+   "sha": "dee82ff91a5ec430eefbd2f48c6ee756781daaf4",
+   "pasta": "semana-1/1b-seg-19-taticas-bt",
+   "aprovado": true,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-10-19-1-seg-19-saque",
+   "quando": "2026-10-19T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "3 erros que atrapalham seu saque",
+   "sha": "2a5bd1e7dec1219dbb3769d687a557f3c1fdf221",
+   "pasta": "semana-1/1-seg-19-saque",
+   "aprovado": true,
+   "legenda": "caption.txt",
+   "video": "reel.mp4",
+   "capa": "capa-reel.jpg"
+  },
+  {
+   "id": "2026-10-19-1-seg-19-saque-story",
+   "quando": "2026-10-19T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: 3 erros que atrapalham seu saque",
+   "sha": "2a5bd1e7dec1219dbb3769d687a557f3c1fdf221",
+   "pasta": "semana-1/1-seg-19-saque",
+   "aprovado": true,
+   "imagem": "story-15h15.jpg"
+  },
+  {
+   "id": "2026-10-20-2b-ter-20-padroes-tenis",
+   "quando": "2026-10-20T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "4 jogadas que constroem o ponto no tênis",
+   "sha": "fb61e5a09fc030c3f8beab48f357ab07fc188d81",
+   "pasta": "semana-1/2b-ter-20-padroes-tenis",
+   "aprovado": true,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg"
+   ]
+  },
+  {
+   "id": "2026-10-20-2b-ter-20-padroes-tenis-story",
+   "quando": "2026-10-20T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: 4 jogadas que constroem o ponto no tênis",
+   "sha": "fb61e5a09fc030c3f8beab48f357ab07fc188d81",
+   "pasta": "semana-1/2b-ter-20-padroes-tenis",
+   "aprovado": true,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-10-20-2-ter-20-primeira-raquete-bt",
+   "quando": "2026-10-20T18:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Sua primeira raquete de beach tennis",
+   "sha": "dee82ff91a5ec430eefbd2f48c6ee756781daaf4",
+   "pasta": "semana-1/2-ter-20-primeira-raquete-bt",
+   "aprovado": true,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg",
+    "slide-07.jpg"
+   ]
+  },
+  {
+   "id": "2026-10-20-2-ter-20-primeira-raquete-bt-story",
+   "quando": "2026-10-20T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Sua primeira raquete de beach tennis",
+   "sha": "dee82ff91a5ec430eefbd2f48c6ee756781daaf4",
+   "pasta": "semana-1/2-ter-20-primeira-raquete-bt",
+   "aprovado": true,
+   "imagem": "story-18h15.jpg"
+  },
+  {
+   "id": "2026-10-21-3-qua-21-overgrip",
+   "quando": "2026-10-21T12:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "Overgrip: quando trocar e como enrolar",
+   "sha": "2a5bd1e7dec1219dbb3769d687a557f3c1fdf221",
+   "pasta": "semana-1/3-qua-21-overgrip",
+   "aprovado": true,
+   "legenda": "caption.txt",
+   "video": "reel.mp4",
+   "capa": "capa-reel.jpg"
+  },
+  {
+   "id": "2026-10-21-3-qua-21-overgrip-story",
+   "quando": "2026-10-21T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Overgrip: quando trocar e como enrolar",
+   "sha": "2a5bd1e7dec1219dbb3769d687a557f3c1fdf221",
+   "pasta": "semana-1/3-qua-21-overgrip",
+   "aprovado": true,
+   "imagem": "story-12h15.jpg"
+  },
+  {
+   "id": "2026-10-21-3b-qua-21-saques-bt",
+   "quando": "2026-10-21T18:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "4 saques que todo jogador de beach tennis precisa conhecer",
+   "sha": "dee82ff91a5ec430eefbd2f48c6ee756781daaf4",
+   "pasta": "semana-1/3b-qua-21-saques-bt",
+   "aprovado": true,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg",
+    "slide-07.jpg"
+   ]
+  },
+  {
+   "id": "2026-10-21-3b-qua-21-saques-bt-story",
+   "quando": "2026-10-21T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: 4 saques que todo jogador de beach tennis precisa conhecer",
+   "sha": "dee82ff91a5ec430eefbd2f48c6ee756781daaf4",
+   "pasta": "semana-1/3b-qua-21-saques-bt",
+   "aprovado": true,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-10-22-4b-qui-22-paredao-tenis",
+   "quando": "2026-10-22T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Como vencer quem devolve todas as bolas",
+   "sha": "fb61e5a09fc030c3f8beab48f357ab07fc188d81",
+   "pasta": "semana-1/4b-qui-22-paredao-tenis",
+   "aprovado": true,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg",
+    "slide-07.jpg"
+   ]
+  },
+  {
+   "id": "2026-10-22-4b-qui-22-paredao-tenis-story",
+   "quando": "2026-10-22T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Como vencer quem devolve todas as bolas",
+   "sha": "fb61e5a09fc030c3f8beab48f357ab07fc188d81",
+   "pasta": "semana-1/4b-qui-22-paredao-tenis",
+   "aprovado": true,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-10-22-4-qui-22-recepcao-bt",
+   "quando": "2026-10-22T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "5 erros na recepção do beach tennis",
+   "sha": "dee82ff91a5ec430eefbd2f48c6ee756781daaf4",
+   "pasta": "semana-1/4-qui-22-recepcao-bt",
+   "aprovado": true,
+   "legenda": "caption.txt",
+   "video": "reel.mp4",
+   "capa": "capa-reel.jpg"
+  },
+  {
+   "id": "2026-10-22-4-qui-22-recepcao-bt-story",
+   "quando": "2026-10-22T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: 5 erros na recepção do beach tennis",
+   "sha": "dee82ff91a5ec430eefbd2f48c6ee756781daaf4",
+   "pasta": "semana-1/4-qui-22-recepcao-bt",
+   "aprovado": true,
+   "imagem": "story-13h15.jpg"
+  },
+  {
+   "id": "2026-10-23-5b-sex-23-vento-sol-bt",
+   "quando": "2026-10-23T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Vento e sol: como jogar bem na praia",
+   "sha": "dee82ff91a5ec430eefbd2f48c6ee756781daaf4",
+   "pasta": "semana-1/5b-sex-23-vento-sol-bt",
+   "aprovado": true,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg",
+    "slide-07.jpg"
+   ]
+  },
+  {
+   "id": "2026-10-23-5b-sex-23-vento-sol-bt-story",
+   "quando": "2026-10-23T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Vento e sol: como jogar bem na praia",
+   "sha": "dee82ff91a5ec430eefbd2f48c6ee756781daaf4",
+   "pasta": "semana-1/5b-sex-23-vento-sol-bt",
+   "aprovado": true,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-10-23-5-sex-23-pisos-tenis",
+   "quando": "2026-10-23T18:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Saibro, quadra dura ou grama?",
+   "sha": "2a5bd1e7dec1219dbb3769d687a557f3c1fdf221",
+   "pasta": "semana-1/5-sex-23-pisos-tenis",
+   "aprovado": true,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg",
+    "slide-07.jpg"
+   ]
+  },
+  {
+   "id": "2026-10-23-5-sex-23-pisos-tenis-story",
+   "quando": "2026-10-23T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Saibro, quadra dura ou grama?",
+   "sha": "2a5bd1e7dec1219dbb3769d687a557f3c1fdf221",
+   "pasta": "semana-1/5-sex-23-pisos-tenis",
+   "aprovado": true,
+   "imagem": "story-18h15.jpg"
+  },
+  {
+   "id": "2026-10-24-6-sab-24-posicionamento-bt",
+   "quando": "2026-10-24T12:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "Rede ou fundo? Onde ficar na quadra",
+   "sha": "dee82ff91a5ec430eefbd2f48c6ee756781daaf4",
+   "pasta": "semana-1/6-sab-24-posicionamento-bt",
+   "aprovado": true,
+   "legenda": "caption.txt",
+   "video": "reel.mp4",
+   "capa": "capa-reel.jpg"
+  },
+  {
+   "id": "2026-10-24-6-sab-24-posicionamento-bt-story",
+   "quando": "2026-10-24T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Rede ou fundo? Onde ficar na quadra",
+   "sha": "dee82ff91a5ec430eefbd2f48c6ee756781daaf4",
+   "pasta": "semana-1/6-sab-24-posicionamento-bt",
+   "aprovado": true,
+   "imagem": "story-10h15.jpg"
+  },
+  {
+   "id": "2026-10-24-6b-sab-24-duplas-tenis",
+   "quando": "2026-10-24T18:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Duplas no tênis: onde ficar em cada bola",
+   "sha": "fb61e5a09fc030c3f8beab48f357ab07fc188d81",
+   "pasta": "semana-1/6b-sab-24-duplas-tenis",
+   "aprovado": true,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg"
+   ]
+  },
+  {
+   "id": "2026-10-24-6b-sab-24-duplas-tenis-story",
+   "quando": "2026-10-24T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Duplas no tênis: onde ficar em cada bola",
+   "sha": "fb61e5a09fc030c3f8beab48f357ab07fc188d81",
+   "pasta": "semana-1/6b-sab-24-duplas-tenis",
+   "aprovado": true,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-10-25-7b-dom-25-defesa-smash-bt",
+   "quando": "2026-10-25T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Como defender o smash no beach tennis",
+   "sha": "dee82ff91a5ec430eefbd2f48c6ee756781daaf4",
+   "pasta": "semana-1/7b-dom-25-defesa-smash-bt",
+   "aprovado": true,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg"
+   ]
+  },
+  {
+   "id": "2026-10-25-7b-dom-25-defesa-smash-bt-story",
+   "quando": "2026-10-25T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Como defender o smash no beach tennis",
+   "sha": "dee82ff91a5ec430eefbd2f48c6ee756781daaf4",
+   "pasta": "semana-1/7b-dom-25-defesa-smash-bt",
+   "aprovado": true,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-10-25-7-dom-25-corda-tensao",
+   "quando": "2026-10-25T18:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Corda: o detalhe que muda seu jogo",
+   "sha": "2a5bd1e7dec1219dbb3769d687a557f3c1fdf221",
+   "pasta": "semana-1/7-dom-25-corda-tensao",
+   "aprovado": true,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg",
+    "slide-07.jpg"
+   ]
+  },
+  {
+   "id": "2026-10-25-7-dom-25-corda-tensao-story",
+   "quando": "2026-10-25T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Corda: o detalhe que muda seu jogo",
+   "sha": "2a5bd1e7dec1219dbb3769d687a557f3c1fdf221",
+   "pasta": "semana-1/7-dom-25-corda-tensao",
+   "aprovado": true,
+   "imagem": "story-19h15.jpg"
+  }
+ ]
 }
