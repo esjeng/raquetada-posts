@@ -376,6 +376,368 @@
    "pasta": "semana-1/7-dom-25-corda-tensao",
    "aprovado": true,
    "imagem": "story-19h15.jpg"
+  },
+  {
+   "id": "2026-10-28-1-qua-28-backhand-tenis",
+   "quando": "2026-10-28T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Backhand de uma ou duas mãos?",
+   "sha": "77bd98ae6322b4b1a8fac68dbc32fb5a8b98ba9c",
+   "pasta": "semana-2/1-qua-28-backhand-tenis",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg"
+   ]
+  },
+  {
+   "id": "2026-10-28-1-qua-28-backhand-tenis-story",
+   "quando": "2026-10-28T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Backhand de uma ou duas mãos?",
+   "sha": "77bd98ae6322b4b1a8fac68dbc32fb5a8b98ba9c",
+   "pasta": "semana-2/1-qua-28-backhand-tenis",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-10-28-1b-qua-28-voleio-bt",
+   "quando": "2026-10-28T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "Voleio no beach tennis: 4 dicas na rede",
+   "sha": "77bd98ae6322b4b1a8fac68dbc32fb5a8b98ba9c",
+   "pasta": "semana-2/1b-qua-28-voleio-bt",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "video": "reel.mp4",
+   "capa": "capa-reel.jpg"
+  },
+  {
+   "id": "2026-10-28-1b-qua-28-voleio-bt-story",
+   "quando": "2026-10-28T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Voleio no beach tennis: 4 dicas na rede",
+   "sha": "77bd98ae6322b4b1a8fac68dbc32fb5a8b98ba9c",
+   "pasta": "semana-2/1b-qua-28-voleio-bt",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-10-29-2b-qui-29-regras-bt",
+   "quando": "2026-10-29T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Regras do beach tennis em 1 minuto",
+   "sha": "77bd98ae6322b4b1a8fac68dbc32fb5a8b98ba9c",
+   "pasta": "semana-2/2b-qui-29-regras-bt",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg"
+   ]
+  },
+  {
+   "id": "2026-10-29-2b-qui-29-regras-bt-story",
+   "quando": "2026-10-29T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Regras do beach tennis em 1 minuto",
+   "sha": "77bd98ae6322b4b1a8fac68dbc32fb5a8b98ba9c",
+   "pasta": "semana-2/2b-qui-29-regras-bt",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-10-29-2-qui-29-split-step-tenis",
+   "quando": "2026-10-29T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "Split step: o passinho que muda tudo",
+   "sha": "77bd98ae6322b4b1a8fac68dbc32fb5a8b98ba9c",
+   "pasta": "semana-2/2-qui-29-split-step-tenis",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "video": "reel.mp4",
+   "capa": "capa-reel.jpg"
+  },
+  {
+   "id": "2026-10-29-2-qui-29-split-step-tenis-story",
+   "quando": "2026-10-29T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Split step: o passinho que muda tudo",
+   "sha": "77bd98ae6322b4b1a8fac68dbc32fb5a8b98ba9c",
+   "pasta": "semana-2/2-qui-29-split-step-tenis",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-10-30-3-sex-30-devolucao-tenis",
+   "quando": "2026-10-30T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Devolução de saque: 4 ajustes",
+   "sha": "77bd98ae6322b4b1a8fac68dbc32fb5a8b98ba9c",
+   "pasta": "semana-2/3-sex-30-devolucao-tenis",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg"
+   ]
+  },
+  {
+   "id": "2026-10-30-3-sex-30-devolucao-tenis-story",
+   "quando": "2026-10-30T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Devolução de saque: 4 ajustes",
+   "sha": "77bd98ae6322b4b1a8fac68dbc32fb5a8b98ba9c",
+   "pasta": "semana-2/3-sex-30-devolucao-tenis",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-10-30-3b-sex-30-lob-bt",
+   "quando": "2026-10-30T18:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Lob no beach tennis: quando e como",
+   "sha": "77bd98ae6322b4b1a8fac68dbc32fb5a8b98ba9c",
+   "pasta": "semana-2/3b-sex-30-lob-bt",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg"
+   ]
+  },
+  {
+   "id": "2026-10-30-3b-sex-30-lob-bt-story",
+   "quando": "2026-10-30T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Lob no beach tennis: quando e como",
+   "sha": "77bd98ae6322b4b1a8fac68dbc32fb5a8b98ba9c",
+   "pasta": "semana-2/3b-sex-30-lob-bt",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-10-31-4b-sab-31-cuidados-areia-bt",
+   "quando": "2026-10-31T12:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "4 cuidados para jogar na areia",
+   "sha": "77bd98ae6322b4b1a8fac68dbc32fb5a8b98ba9c",
+   "pasta": "semana-2/4b-sab-31-cuidados-areia-bt",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "video": "reel.mp4",
+   "capa": "capa-reel.jpg"
+  },
+  {
+   "id": "2026-10-31-4b-sab-31-cuidados-areia-bt-story",
+   "quando": "2026-10-31T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: 4 cuidados para jogar na areia",
+   "sha": "77bd98ae6322b4b1a8fac68dbc32fb5a8b98ba9c",
+   "pasta": "semana-2/4b-sab-31-cuidados-areia-bt",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-10-31-4-sab-31-tie-break-tenis",
+   "quando": "2026-10-31T18:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Tie-break: como funciona",
+   "sha": "77bd98ae6322b4b1a8fac68dbc32fb5a8b98ba9c",
+   "pasta": "semana-2/4-sab-31-tie-break-tenis",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg"
+   ]
+  },
+  {
+   "id": "2026-10-31-4-sab-31-tie-break-tenis-story",
+   "quando": "2026-10-31T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Tie-break: como funciona",
+   "sha": "77bd98ae6322b4b1a8fac68dbc32fb5a8b98ba9c",
+   "pasta": "semana-2/4-sab-31-tie-break-tenis",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-01-5-dom-01-aquecimento-tenis",
+   "quando": "2026-11-01T12:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "Aquecimento em 5 minutos antes do tênis",
+   "sha": "77bd98ae6322b4b1a8fac68dbc32fb5a8b98ba9c",
+   "pasta": "semana-2/5-dom-01-aquecimento-tenis",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "video": "reel.mp4",
+   "capa": "capa-reel.jpg"
+  },
+  {
+   "id": "2026-11-01-5-dom-01-aquecimento-tenis-story",
+   "quando": "2026-11-01T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Aquecimento em 5 minutos antes do tênis",
+   "sha": "77bd98ae6322b4b1a8fac68dbc32fb5a8b98ba9c",
+   "pasta": "semana-2/5-dom-01-aquecimento-tenis",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-01-5b-dom-01-comunicacao-dupla-bt",
+   "quando": "2026-11-01T18:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "5 combinados com a sua dupla",
+   "sha": "77bd98ae6322b4b1a8fac68dbc32fb5a8b98ba9c",
+   "pasta": "semana-2/5b-dom-01-comunicacao-dupla-bt",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-01-5b-dom-01-comunicacao-dupla-bt-story",
+   "quando": "2026-11-01T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: 5 combinados com a sua dupla",
+   "sha": "77bd98ae6322b4b1a8fac68dbc32fb5a8b98ba9c",
+   "pasta": "semana-2/5b-dom-01-comunicacao-dupla-bt",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-02-6b-seg-02-smash-bt",
+   "quando": "2026-11-02T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Smash no beach tennis: 4 dicas",
+   "sha": "77bd98ae6322b4b1a8fac68dbc32fb5a8b98ba9c",
+   "pasta": "semana-2/6b-seg-02-smash-bt",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-02-6b-seg-02-smash-bt-story",
+   "quando": "2026-11-02T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Smash no beach tennis: 4 dicas",
+   "sha": "77bd98ae6322b4b1a8fac68dbc32fb5a8b98ba9c",
+   "pasta": "semana-2/6b-seg-02-smash-bt",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-02-6-seg-02-calcado-tenis",
+   "quando": "2026-11-02T18:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Tênis de corrida na quadra? Melhor não",
+   "sha": "77bd98ae6322b4b1a8fac68dbc32fb5a8b98ba9c",
+   "pasta": "semana-2/6-seg-02-calcado-tenis",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-02-6-seg-02-calcado-tenis-story",
+   "quando": "2026-11-02T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Tênis de corrida na quadra? Melhor não",
+   "sha": "77bd98ae6322b4b1a8fac68dbc32fb5a8b98ba9c",
+   "pasta": "semana-2/6-seg-02-calcado-tenis",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-03-7-ter-03-voleio-tenis",
+   "quando": "2026-11-03T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Voleio: 4 erros que te fazem perder o ponto",
+   "sha": "77bd98ae6322b4b1a8fac68dbc32fb5a8b98ba9c",
+   "pasta": "semana-2/7-ter-03-voleio-tenis",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-03-7-ter-03-voleio-tenis-story",
+   "quando": "2026-11-03T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Voleio: 4 erros que te fazem perder o ponto",
+   "sha": "77bd98ae6322b4b1a8fac68dbc32fb5a8b98ba9c",
+   "pasta": "semana-2/7-ter-03-voleio-tenis",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-03-7b-ter-03-bola-bt",
+   "quando": "2026-11-03T18:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "A bola do beach tennis é diferente?",
+   "sha": "77bd98ae6322b4b1a8fac68dbc32fb5a8b98ba9c",
+   "pasta": "semana-2/7b-ter-03-bola-bt",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-03-7b-ter-03-bola-bt-story",
+   "quando": "2026-11-03T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: A bola do beach tennis é diferente?",
+   "sha": "77bd98ae6322b4b1a8fac68dbc32fb5a8b98ba9c",
+   "pasta": "semana-2/7b-ter-03-bola-bt",
+   "aprovado": false,
+   "imagem": "story.jpg"
   }
  ]
 }
