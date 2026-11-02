@@ -738,6 +738,1412 @@
    "pasta": "semana-2/7b-ter-03-bola-bt",
    "aprovado": true,
    "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-04-1-qua-04-segundo-saque-sem-tenis",
+   "quando": "2026-11-04T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Segundo saque sem dupla falta",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-3/1-qua-04-segundo-saque-sem-tenis",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-04-1-qua-04-segundo-saque-sem-tenis-story",
+   "quando": "2026-11-04T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Segundo saque sem dupla falta",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-3/1-qua-04-segundo-saque-sem-tenis",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-04-1b-qua-04-3-erros-forehand-tenis",
+   "quando": "2026-11-04T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "3 erros no forehand",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-3/1b-qua-04-3-erros-forehand-tenis",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "video": "reel.mp4",
+   "capa": "capa-reel.jpg"
+  },
+  {
+   "id": "2026-11-04-1b-qua-04-3-erros-forehand-tenis-story",
+   "quando": "2026-11-04T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: 3 erros no forehand",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-3/1b-qua-04-3-erros-forehand-tenis",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-05-2-qui-05-3k-12k-18k-bt",
+   "quando": "2026-11-05T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "3K, 12K ou 18K: o que significa",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-3/2-qui-05-3k-12k-18k-bt",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-05-2-qui-05-3k-12k-18k-bt-story",
+   "quando": "2026-11-05T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: 3K, 12K ou 18K: o que significa",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-3/2-qui-05-3k-12k-18k-bt",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-05-2b-qui-05-movimentacao-areia-bt",
+   "quando": "2026-11-05T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "Movimentação na areia",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-3/2b-qui-05-movimentacao-areia-bt",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "video": "reel.mp4",
+   "capa": "capa-reel.jpg"
+  },
+  {
+   "id": "2026-11-05-2b-qui-05-movimentacao-areia-bt-story",
+   "quando": "2026-11-05T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Movimentação na areia",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-3/2b-qui-05-movimentacao-areia-bt",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-06-3-sex-06-5-curiosidades-tenis-tenis",
+   "quando": "2026-11-06T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "5 curiosidades do tênis",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-3/3-sex-06-5-curiosidades-tenis-tenis",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg",
+    "slide-07.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-06-3-sex-06-5-curiosidades-tenis-tenis-story",
+   "quando": "2026-11-06T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: 5 curiosidades do tênis",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-3/3-sex-06-5-curiosidades-tenis-tenis",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-06-3b-sex-06-deixadinha-quando-usar-tenis",
+   "quando": "2026-11-06T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "Deixadinha: quando usar",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-3/3b-sex-06-deixadinha-quando-usar-tenis",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "video": "reel.mp4",
+   "capa": "capa-reel.jpg"
+  },
+  {
+   "id": "2026-11-06-3b-sex-06-deixadinha-quando-usar-tenis-story",
+   "quando": "2026-11-06T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Deixadinha: quando usar",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-3/3b-sex-06-deixadinha-quando-usar-tenis",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-07-4-sab-07-face-lisa-rugosa-bt",
+   "quando": "2026-11-07T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Face lisa ou rugosa?",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-3/4-sab-07-face-lisa-rugosa-bt",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-07-4-sab-07-face-lisa-rugosa-bt-story",
+   "quando": "2026-11-07T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Face lisa ou rugosa?",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-3/4-sab-07-face-lisa-rugosa-bt",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-07-4b-sab-07-5-curiosidades-beach-bt",
+   "quando": "2026-11-07T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "5 curiosidades do beach tennis",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-3/4b-sab-07-5-curiosidades-beach-bt",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "video": "reel.mp4",
+   "capa": "capa-reel.jpg"
+  },
+  {
+   "id": "2026-11-07-4b-sab-07-5-curiosidades-beach-bt-story",
+   "quando": "2026-11-07T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: 5 curiosidades do beach tennis",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-3/4b-sab-07-5-curiosidades-beach-bt",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-08-5-dom-08-treino-1-hora-tenis",
+   "quando": "2026-11-08T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Treino de 1 hora: como dividir",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-3/5-dom-08-treino-1-hora-tenis",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-08-5-dom-08-treino-1-hora-tenis-story",
+   "quando": "2026-11-08T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Treino de 1 hora: como dividir",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-3/5-dom-08-treino-1-hora-tenis",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-08-5b-dom-08-rotina-entre-pontos-tenis",
+   "quando": "2026-11-08T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "Rotina entre os pontos",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-3/5b-dom-08-rotina-entre-pontos-tenis",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "video": "reel.mp4",
+   "capa": "capa-reel.jpg"
+  },
+  {
+   "id": "2026-11-08-5b-dom-08-rotina-entre-pontos-tenis-story",
+   "quando": "2026-11-08T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Rotina entre os pontos",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-3/5b-dom-08-rotina-entre-pontos-tenis",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-09-6-seg-09-saque-1-fazer-bt",
+   "quando": "2026-11-09T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Saque + 1: o que fazer depois do saque",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-3/6-seg-09-saque-1-fazer-bt",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-09-6-seg-09-saque-1-fazer-bt-story",
+   "quando": "2026-11-09T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Saque + 1: o que fazer depois do saque",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-3/6-seg-09-saque-1-fazer-bt",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-09-6b-seg-09-3-erros-iniciante-bt",
+   "quando": "2026-11-09T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "3 erros do iniciante",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-3/6b-seg-09-3-erros-iniciante-bt",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "video": "reel.mp4",
+   "capa": "capa-reel.jpg"
+  },
+  {
+   "id": "2026-11-09-6b-seg-09-3-erros-iniciante-bt-story",
+   "quando": "2026-11-09T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: 3 erros do iniciante",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-3/6b-seg-09-3-erros-iniciante-bt",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-10-7-ter-10-como-jogar-contra-tenis",
+   "quando": "2026-11-10T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Como jogar contra canhoto",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-3/7-ter-10-como-jogar-contra-tenis",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg",
+    "slide-07.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-10-7-ter-10-como-jogar-contra-tenis-story",
+   "quando": "2026-11-10T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Como jogar contra canhoto",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-3/7-ter-10-como-jogar-contra-tenis",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-10-7b-ter-10-smash-3-erros-tenis",
+   "quando": "2026-11-10T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "Smash: 3 erros",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-3/7b-ter-10-smash-3-erros-tenis",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "video": "reel.mp4",
+   "capa": "capa-reel.jpg"
+  },
+  {
+   "id": "2026-11-10-7b-ter-10-smash-3-erros-tenis-story",
+   "quando": "2026-11-10T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Smash: 3 erros",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-3/7b-ter-10-smash-3-erros-tenis",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-11-1-qua-11-5-exercicios-treinar-bt",
+   "quando": "2026-11-11T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "5 exercícios para treinar em dupla",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-4/1-qua-11-5-exercicios-treinar-bt",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg",
+    "slide-07.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-11-1-qua-11-5-exercicios-treinar-bt-story",
+   "quando": "2026-11-11T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: 5 exercícios para treinar em dupla",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-4/1-qua-11-5-exercicios-treinar-bt",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-11-1b-qua-11-bola-curta-areia-bt",
+   "quando": "2026-11-11T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "Bola curta na areia",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-4/1b-qua-11-bola-curta-areia-bt",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "video": "reel.mp4",
+   "capa": "capa-reel.jpg"
+  },
+  {
+   "id": "2026-11-11-1b-qua-11-bola-curta-areia-bt-story",
+   "quando": "2026-11-11T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Bola curta na areia",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-4/1b-qua-11-bola-curta-areia-bt",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-12-2-qui-12-bola-tenis-sem-tenis",
+   "quando": "2026-11-12T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Bola de tênis: com ou sem pressão?",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-4/2-qui-12-bola-tenis-sem-tenis",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-12-2-qui-12-bola-tenis-sem-tenis-story",
+   "quando": "2026-11-12T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Bola de tênis: com ou sem pressão?",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-4/2-qui-12-bola-tenis-sem-tenis",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-12-2b-qui-12-lob-3-situacoes-tenis",
+   "quando": "2026-11-12T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "Lob: 3 situações",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-4/2b-qui-12-lob-3-situacoes-tenis",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "video": "reel.mp4",
+   "capa": "capa-reel.jpg"
+  },
+  {
+   "id": "2026-11-12-2b-qui-12-lob-3-situacoes-tenis-story",
+   "quando": "2026-11-12T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Lob: 3 situações",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-4/2b-qui-12-lob-3-situacoes-tenis",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-13-3-sex-13-levar-bolsa-beach-bt",
+   "quando": "2026-11-13T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "O que levar na bolsa de beach tennis",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-4/3-sex-13-levar-bolsa-beach-bt",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-13-3-sex-13-levar-bolsa-beach-bt-story",
+   "quando": "2026-11-13T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: O que levar na bolsa de beach tennis",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-4/3-sex-13-levar-bolsa-beach-bt",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-13-3b-sex-13-4-habitos-recuperacao-bt",
+   "quando": "2026-11-13T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "4 hábitos de recuperação",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-4/3b-sex-13-4-habitos-recuperacao-bt",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "video": "reel.mp4",
+   "capa": "capa-reel.jpg"
+  },
+  {
+   "id": "2026-11-13-3b-sex-13-4-habitos-recuperacao-bt-story",
+   "quando": "2026-11-13T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: 4 hábitos de recuperação",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-4/3b-sex-13-4-habitos-recuperacao-bt",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-14-4-sab-14-aproximacao-rede-4-tenis",
+   "quando": "2026-11-14T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Aproximação à rede: 4 regras",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-4/4-sab-14-aproximacao-rede-4-tenis",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-14-4-sab-14-aproximacao-rede-4-tenis-story",
+   "quando": "2026-11-14T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Aproximação à rede: 4 regras",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-4/4-sab-14-aproximacao-rede-4-tenis",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-14-4b-sab-14-backhand-duas-maos-tenis",
+   "quando": "2026-11-14T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "Backhand de duas mãos: 3 erros",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-4/4b-sab-14-backhand-duas-maos-tenis",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "video": "reel.mp4",
+   "capa": "capa-reel.jpg"
+  },
+  {
+   "id": "2026-11-14-4b-sab-14-backhand-duas-maos-tenis-story",
+   "quando": "2026-11-14T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Backhand de duas mãos: 3 erros",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-4/4b-sab-14-backhand-duas-maos-tenis",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-15-5-dom-15-brasil-joga-areia-bt",
+   "quando": "2026-11-15T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "O Brasil que joga na areia",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-4/5-dom-15-brasil-joga-areia-bt",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-15-5-dom-15-brasil-joga-areia-bt-story",
+   "quando": "2026-11-15T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: O Brasil que joga na areia",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-4/5-dom-15-brasil-joga-areia-bt",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-15-5b-dom-15-primeiro-torneio-bt",
+   "quando": "2026-11-15T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "Seu primeiro torneio",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-4/5b-dom-15-primeiro-torneio-bt",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "video": "reel.mp4",
+   "capa": "capa-reel.jpg"
+  },
+  {
+   "id": "2026-11-15-5b-dom-15-primeiro-torneio-bt-story",
+   "quando": "2026-11-15T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Seu primeiro torneio",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-4/5b-dom-15-primeiro-torneio-bt",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-16-6-seg-16-atp-finals-como-tenis",
+   "quando": "2026-11-16T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "ATP Finals: como funciona",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-4/6-seg-16-atp-finals-como-tenis",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-16-6-seg-16-atp-finals-como-tenis-story",
+   "quando": "2026-11-16T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: ATP Finals: como funciona",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-4/6-seg-16-atp-finals-como-tenis",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-16-6b-seg-16-assista-aprenda-tenis",
+   "quando": "2026-11-16T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "Assista e aprenda",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-4/6b-seg-16-assista-aprenda-tenis",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "video": "reel.mp4",
+   "capa": "capa-reel.jpg"
+  },
+  {
+   "id": "2026-11-16-6b-seg-16-assista-aprenda-tenis-story",
+   "quando": "2026-11-16T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Assista e aprenda",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-4/6b-seg-16-assista-aprenda-tenis",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-17-7-ter-17-contra-dupla-mais-bt",
+   "quando": "2026-11-17T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Contra uma dupla mais forte",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-4/7-ter-17-contra-dupla-mais-bt",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg",
+    "slide-07.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-17-7-ter-17-contra-dupla-mais-bt-story",
+   "quando": "2026-11-17T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Contra uma dupla mais forte",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-4/7-ter-17-contra-dupla-mais-bt",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-17-7b-ter-17-empunhadura-beach-tennis-bt",
+   "quando": "2026-11-17T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "Empunhadura no beach tennis",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-4/7b-ter-17-empunhadura-beach-tennis-bt",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "video": "reel.mp4",
+   "capa": "capa-reel.jpg"
+  },
+  {
+   "id": "2026-11-17-7b-ter-17-empunhadura-beach-tennis-bt-story",
+   "quando": "2026-11-17T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Empunhadura no beach tennis",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-4/7b-ter-17-empunhadura-beach-tennis-bt",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-18-1-qua-18-balanco-raquete-tenis",
+   "quando": "2026-11-18T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Balanço da raquete",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-5/1-qua-18-balanco-raquete-tenis",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-18-1-qua-18-balanco-raquete-tenis-story",
+   "quando": "2026-11-18T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Balanço da raquete",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-5/1-qua-18-balanco-raquete-tenis",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-18-1b-qua-18-cruzada-paralela-tenis",
+   "quando": "2026-11-18T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "Cruzada ou paralela?",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-5/1b-qua-18-cruzada-paralela-tenis",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "video": "reel.mp4",
+   "capa": "capa-reel.jpg"
+  },
+  {
+   "id": "2026-11-18-1b-qua-18-cruzada-paralela-tenis-story",
+   "quando": "2026-11-18T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Cruzada ou paralela?",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-5/1b-qua-18-cruzada-paralela-tenis",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-19-2-qui-19-novembro-azul-bt",
+   "quando": "2026-11-19T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Novembro Azul",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-5/2-qui-19-novembro-azul-bt",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-19-2-qui-19-novembro-azul-bt-story",
+   "quando": "2026-11-19T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Novembro Azul",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-5/2-qui-19-novembro-azul-bt",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-19-2b-qui-19-alongamento-pos-jogo-bt",
+   "quando": "2026-11-19T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "Alongamento pós-jogo",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-5/2b-qui-19-alongamento-pos-jogo-bt",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "video": "reel.mp4",
+   "capa": "capa-reel.jpg"
+  },
+  {
+   "id": "2026-11-19-2b-qui-19-alongamento-pos-jogo-bt-story",
+   "quando": "2026-11-19T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Alongamento pós-jogo",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-5/2b-qui-19-alongamento-pos-jogo-bt",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-20-3-sex-20-lendas-abriram-caminho-tenis",
+   "quando": "2026-11-20T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Lendas que abriram caminho",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-5/3-sex-20-lendas-abriram-caminho-tenis",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-20-3-sex-20-lendas-abriram-caminho-tenis-story",
+   "quando": "2026-11-20T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Lendas que abriram caminho",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-5/3-sex-20-lendas-abriram-caminho-tenis",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-20-3b-sex-20-linha-tempo-tenis",
+   "quando": "2026-11-20T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "Linha do tempo",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-5/3b-sex-20-linha-tempo-tenis",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "video": "reel.mp4",
+   "capa": "capa-reel.jpg"
+  },
+  {
+   "id": "2026-11-20-3b-sex-20-linha-tempo-tenis-story",
+   "quando": "2026-11-20T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Linha do tempo",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-5/3b-sex-20-linha-tempo-tenis",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-21-4-sab-21-defesa-ao-contra-bt",
+   "quando": "2026-11-21T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Da defesa ao contra-ataque",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-5/4-sab-21-defesa-ao-contra-bt",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg",
+    "slide-07.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-21-4-sab-21-defesa-ao-contra-bt-story",
+   "quando": "2026-11-21T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Da defesa ao contra-ataque",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-5/4-sab-21-defesa-ao-contra-bt",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-21-4b-sab-21-saque-3-erros-bt",
+   "quando": "2026-11-21T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "Saque: 3 erros",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-5/4b-sab-21-saque-3-erros-bt",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "video": "reel.mp4",
+   "capa": "capa-reel.jpg"
+  },
+  {
+   "id": "2026-11-21-4b-sab-21-saque-3-erros-bt-story",
+   "quando": "2026-11-21T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Saque: 3 erros",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-5/4b-sab-21-saque-3-erros-bt",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-22-5-dom-22-5-curiosidades-atp-tenis",
+   "quando": "2026-11-22T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "5 curiosidades do ATP Finals",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-5/5-dom-22-5-curiosidades-atp-tenis",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg",
+    "slide-07.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-22-5-dom-22-5-curiosidades-atp-tenis-story",
+   "quando": "2026-11-22T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: 5 curiosidades do ATP Finals",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-5/5-dom-22-5-curiosidades-atp-tenis",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-22-5b-dom-22-guga-2000-tenis",
+   "quando": "2026-11-22T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "Guga em 2000",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-5/5b-dom-22-guga-2000-tenis",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "video": "reel.mp4",
+   "capa": "capa-reel.jpg"
+  },
+  {
+   "id": "2026-11-22-5b-dom-22-guga-2000-tenis-story",
+   "quando": "2026-11-22T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Guga em 2000",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-5/5b-dom-22-guga-2000-tenis",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-23-6-seg-23-kit-sol-areia-bt",
+   "quando": "2026-11-23T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Kit sol para a areia",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-5/6-seg-23-kit-sol-areia-bt",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-23-6-seg-23-kit-sol-areia-bt-story",
+   "quando": "2026-11-23T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Kit sol para a areia",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-5/6-seg-23-kit-sol-areia-bt",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-23-6b-seg-23-posicao-espera-rede-bt",
+   "quando": "2026-11-23T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "Posição de espera na rede",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-5/6b-seg-23-posicao-espera-rede-bt",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "video": "reel.mp4",
+   "capa": "capa-reel.jpg"
+  },
+  {
+   "id": "2026-11-23-6b-seg-23-posicao-espera-rede-bt-story",
+   "quando": "2026-11-23T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Posição de espera na rede",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-5/6b-seg-23-posicao-espera-rede-bt",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-24-7-ter-24-copa-davis-como-tenis",
+   "quando": "2026-11-24T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Copa Davis: como funciona",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-5/7-ter-24-copa-davis-como-tenis",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-24-7-ter-24-copa-davis-como-tenis-story",
+   "quando": "2026-11-24T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Copa Davis: como funciona",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-5/7-ter-24-copa-davis-como-tenis",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-24-7b-ter-24-duplas-3-erros-tenis",
+   "quando": "2026-11-24T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "Duplas: 3 erros de comunicação",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-5/7b-ter-24-duplas-3-erros-tenis",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "video": "reel.mp4",
+   "capa": "capa-reel.jpg"
+  },
+  {
+   "id": "2026-11-24-7b-ter-24-duplas-3-erros-tenis-story",
+   "quando": "2026-11-24T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Duplas: 3 erros de comunicação",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-5/7b-ter-24-duplas-3-erros-tenis",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-25-1-qua-25-jogo-diagonal-quando-bt",
+   "quando": "2026-11-25T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Jogo na diagonal: quando cruzar",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-6/1-qua-25-jogo-diagonal-quando-bt",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-25-1-qua-25-jogo-diagonal-quando-bt-story",
+   "quando": "2026-11-25T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Jogo na diagonal: quando cruzar",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-6/1-qua-25-jogo-diagonal-quando-bt",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-25-1b-qua-25-lob-defensivo-ofensivo-bt",
+   "quando": "2026-11-25T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "Lob defensivo ou ofensivo?",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-6/1b-qua-25-lob-defensivo-ofensivo-bt",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "video": "reel.mp4",
+   "capa": "capa-reel.jpg"
+  },
+  {
+   "id": "2026-11-25-1b-qua-25-lob-defensivo-ofensivo-bt-story",
+   "quando": "2026-11-25T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Lob defensivo ou ofensivo?",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-6/1b-qua-25-lob-defensivo-ofensivo-bt",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-26-2-qui-26-black-friday-tenista-tenis",
+   "quando": "2026-11-26T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Black Friday do tenista",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-6/2-qui-26-black-friday-tenista-tenis",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-26-2-qui-26-black-friday-tenista-tenis-story",
+   "quando": "2026-11-26T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Black Friday do tenista",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-6/2-qui-26-black-friday-tenista-tenis",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-26-2b-qui-26-hora-trocar-raquete-tenis",
+   "quando": "2026-11-26T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "Hora de trocar de raquete?",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-6/2b-qui-26-hora-trocar-raquete-tenis",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "video": "reel.mp4",
+   "capa": "capa-reel.jpg"
+  },
+  {
+   "id": "2026-11-26-2b-qui-26-hora-trocar-raquete-tenis-story",
+   "quando": "2026-11-26T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Hora de trocar de raquete?",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-6/2b-qui-26-hora-trocar-raquete-tenis",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-27-3-sex-27-black-friday-checklist-bt",
+   "quando": "2026-11-27T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Black Friday: checklist da raquete",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-6/3-sex-27-black-friday-checklist-bt",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-27-3-sex-27-black-friday-checklist-bt-story",
+   "quando": "2026-11-27T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Black Friday: checklist da raquete",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-6/3-sex-27-black-friday-checklist-bt",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-27-3b-sex-27-4-armadilhas-black-bt",
+   "quando": "2026-11-27T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "4 armadilhas na Black Friday",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-6/3b-sex-27-4-armadilhas-black-bt",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "video": "reel.mp4",
+   "capa": "capa-reel.jpg"
+  },
+  {
+   "id": "2026-11-27-3b-sex-27-4-armadilhas-black-bt-story",
+   "quando": "2026-11-27T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: 4 armadilhas na Black Friday",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-6/3b-sex-27-4-armadilhas-black-bt",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-28-4-sab-28-bola-seguranca-fundo-tenis",
+   "quando": "2026-11-28T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "A bola de segurança no fundo",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-6/4-sab-28-bola-seguranca-fundo-tenis",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-28-4-sab-28-bola-seguranca-fundo-tenis-story",
+   "quando": "2026-11-28T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: A bola de segurança no fundo",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-6/4-sab-28-bola-seguranca-fundo-tenis",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-28-4b-sab-28-copa-davis-3-tenis",
+   "quando": "2026-11-28T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "Copa Davis: 3 curiosidades",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-6/4b-sab-28-copa-davis-3-tenis",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "video": "reel.mp4",
+   "capa": "capa-reel.jpg"
+  },
+  {
+   "id": "2026-11-28-4b-sab-28-copa-davis-3-tenis-story",
+   "quando": "2026-11-28T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Copa Davis: 3 curiosidades",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-6/4b-sab-28-copa-davis-3-tenis",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-29-5-dom-29-5-atitudes-dupla-bt",
+   "quando": "2026-11-29T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "5 atitudes da dupla vencedora",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-6/5-dom-29-5-atitudes-dupla-bt",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg",
+    "slide-07.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-29-5-dom-29-5-atitudes-dupla-bt-story",
+   "quando": "2026-11-29T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: 5 atitudes da dupla vencedora",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-6/5-dom-29-5-atitudes-dupla-bt",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-29-5b-dom-29-aquecimento-dupla-bt",
+   "quando": "2026-11-29T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "Aquecimento com a dupla",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-6/5b-dom-29-aquecimento-dupla-bt",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "video": "reel.mp4",
+   "capa": "capa-reel.jpg"
+  },
+  {
+   "id": "2026-11-29-5b-dom-29-aquecimento-dupla-bt-story",
+   "quando": "2026-11-29T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Aquecimento com a dupla",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-6/5b-dom-29-aquecimento-dupla-bt",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-30-6-seg-30-dezembro-meta-tenis",
+   "quando": "2026-11-30T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Dezembro com meta",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-6/6-seg-30-dezembro-meta-tenis",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-30-6-seg-30-dezembro-meta-tenis-story",
+   "quando": "2026-11-30T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Dezembro com meta",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-6/6-seg-30-dezembro-meta-tenis",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-11-30-6b-seg-30-5-dicas-mes-tenis",
+   "quando": "2026-11-30T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "5 dicas do mês",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-6/6b-seg-30-5-dicas-mes-tenis",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "video": "reel.mp4",
+   "capa": "capa-reel.jpg"
+  },
+  {
+   "id": "2026-11-30-6b-seg-30-5-dicas-mes-tenis-story",
+   "quando": "2026-11-30T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: 5 dicas do mês",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-6/6b-seg-30-5-dicas-mes-tenis",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-12-01-7-ter-01-dezembro-chegou-metas-bt",
+   "quando": "2026-12-01T12:00:00-03:00",
+   "tipo": "carrossel",
+   "descricao": "Dezembro chegou: metas para a areia",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-6/7-ter-01-dezembro-chegou-metas-bt",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "imagens": [
+    "slide-01.jpg",
+    "slide-02.jpg",
+    "slide-03.jpg",
+    "slide-04.jpg",
+    "slide-05.jpg",
+    "slide-06.jpg",
+    "slide-07.jpg"
+   ]
+  },
+  {
+   "id": "2026-12-01-7-ter-01-dezembro-chegou-metas-bt-story",
+   "quando": "2026-12-01T12:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: Dezembro chegou: metas para a areia",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-6/7-ter-01-dezembro-chegou-metas-bt",
+   "aprovado": false,
+   "imagem": "story.jpg"
+  },
+  {
+   "id": "2026-12-01-7b-ter-01-5-dicas-mes-bt",
+   "quando": "2026-12-01T18:00:00-03:00",
+   "tipo": "reels",
+   "descricao": "5 dicas do mês",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-6/7b-ter-01-5-dicas-mes-bt",
+   "aprovado": false,
+   "legenda": "caption.txt",
+   "video": "reel.mp4",
+   "capa": "capa-reel.jpg"
+  },
+  {
+   "id": "2026-12-01-7b-ter-01-5-dicas-mes-bt-story",
+   "quando": "2026-12-01T18:00:00-03:00",
+   "tipo": "story",
+   "descricao": "Story: 5 dicas do mês",
+   "sha": "3c391dcf3057ba1dc62c12466f5b85661abe853b",
+   "pasta": "semana-6/7b-ter-01-5-dicas-mes-bt",
+   "aprovado": false,
+   "imagem": "story.jpg"
   }
  ]
 }
